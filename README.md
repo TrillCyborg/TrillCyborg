@@ -1,6 +1,6 @@
 # Hey there, welcome to my page 👋
 
-I'm a full-stack developer with a deep love for creating beautiful and useful products. Currently I'm building [Super](https://super.so), a simple tool for turning your [Notion](https://notion.so) pages into websites. It's super cool. Besides for that I take on freelance projects that interest me.
+I'm a full-stack developer with a deep love for creating beautiful and useful products. Currently I'm building [Super](https://super.so), a simple tool for turning your [Notion](https://notion.so) pages into websites. It's super cool. Besides that I take on freelance projects from time to time.
 
 ## Other things I've made
 
@@ -29,18 +29,3 @@ I'm a full-stack developer with a deep love for creating beautiful and useful pr
 
 * [@trillcyborg](https://twitter.com/trillcyborg)
 * [email](mailto:jason@trxrg.com)
-
-<!--
-**TrillCyborg/TrillCyborg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
